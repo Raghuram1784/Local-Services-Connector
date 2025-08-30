@@ -67,7 +67,6 @@ Authentication uses **Clerk** and/or **Firebase Auth** for secure, seamless logi
 ---
 
 
----
 ## 🚀 Quickstart
 
 ### 1) Clone the repository
