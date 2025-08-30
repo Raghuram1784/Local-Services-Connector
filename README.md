@@ -3,10 +3,10 @@
 Connect users with trusted local service providers — plus a part-time gigs marketplace for students and freelancers. Built with **React + Tailwind**, **Node.js + Express**, **MongoDB**, **Clerk / Firebase Auth**, and **Firebase Cloud Messaging**. Future-ready for **Razorpay/Stripe** payments.
 
 <p align="center">
-  <a href="#features">Features</a> •
+  • <a href="#features">Features</a> •
   <a href="#demo--screenshots">Demo & Screenshots</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#contributing">Contributing</a> •
+  <a href="#contributing">Contributing</a> 
 </p>
 
 ---
