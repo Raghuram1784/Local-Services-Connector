@@ -5,16 +5,8 @@ Connect users with trusted local service providers — plus a part-time gigs mar
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#demo--screenshots">Demo & Screenshots</a> •
-  <a href="#architecture">Architecture</a> •
   <a href="#tech-stack">Tech Stack</a> •
-  <a href="#folder-structure">Folder Structure</a> •
-  <a href="#quickstart">Quickstart</a> •
-  <a href="#env-variables">ENV Variables</a> •
-  <a href="#api-preview">API Preview</a> •
-  <a href="#data-models">Data Models</a> •
-  <a href="#roadmap">Roadmap</a> •
   <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
 </p>
 
 ---
@@ -58,3 +50,29 @@ Authentication uses **Clerk** and/or **Firebase Auth** for secure, seamless logi
 - ![Gig Marketplace](Application-Screenshots/4.png)
 - ![Bookings](Application-Screenshots/5.png)
 - ![Bookings](Application-Screenshots/6.png)
+
+  
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend**: React, TailwindCSS  
+- **Backend**: Node.js, Express  
+- **Database**: MongoDB (Mongoose)  
+- **Auth**: Clerk + Firebase Auth  
+- **Notifications**: Firebase Cloud Messaging  
+- **Payments (Future)**: Razorpay / Stripe  
+- **Tooling**: ESLint, Prettier, Nodemon, dotenv  
+
+---
+
+
+## 🤝 Contributing
+
+Contributions are welcome! 🎉  
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-branch`)  
+3. Commit your changes (`git commit -m "Add new feature"`)  
+4. Push to the branch (`git push origin feature-branch`)  
+5. Open a Pull Request  
