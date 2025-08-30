@@ -67,6 +67,16 @@ Authentication uses **Clerk** and/or **Firebase Auth** for secure, seamless logi
 ---
 
 
+---
+## 🚀 Quickstart
+
+### 1) Clone the repository
+```bash
+git clone https://github.com/raghuram1784/local-services-connector.git
+cd local-services-connector
+---
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! 🎉  
