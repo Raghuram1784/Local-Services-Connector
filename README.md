@@ -42,8 +42,6 @@ Authentication uses **Clerk** and/or **Firebase Auth** for secure, seamless logi
 
 ## Demo & Screenshots
 
-> Replace the image paths with your actual screenshots.
-
 - ![Home](Application-Screenshots/1.png)
 - ![Search & Filters](Application-Screenshots/2.png)
 - ![Provider Profile](Application-Screenshots/3.png)
